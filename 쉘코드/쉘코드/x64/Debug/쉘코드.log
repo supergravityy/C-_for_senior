@@ -1,0 +1,2 @@
+﻿  main.c
+C:\Users\98032\source\repos\Clang_Lecture\쉘코드\쉘코드\main.c(3,12): error C2485: '__declspec(식별자)'은(는) 인식할 수 있는 확장 특성이 아님

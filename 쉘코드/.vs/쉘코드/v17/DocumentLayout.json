@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\98032\\source\\repos\\Clang_Lecture\\\uC258\uCF54\uB4DC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B849B91D-9C49-46EB-AF36-03EDD50A8E01}|\uAE30\uACC4\uC5B4\uB2E8\\\uAE30\uACC4\uC5B4\uB2E8.vcxproj|C:\\Users\\98032\\source\\repos\\Clang_Lecture\\\uC258\uCF54\uB4DC\\\uAE30\uACC4\uC5B4\uB2E8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B849B91D-9C49-46EB-AF36-03EDD50A8E01}|\uAE30\uACC4\uC5B4\uB2E8\\\uAE30\uACC4\uC5B4\uB2E8.vcxproj|solutionrelative:\uAE30\uACC4\uC5B4\uB2E8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CF0496-1AA5-46FB-868C-BA23BD70E46E}|\uC5B4\uC148\uBE14\uB9AC\uB2E8\\\uC5B4\uC148\uBE14\uB9AC\uB2E8.vcxproj|C:\\Users\\98032\\source\\repos\\Clang_Lecture\\\uC258\uCF54\uB4DC\\\uC5B4\uC148\uBE14\uB9AC\uB2E8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52CF0496-1AA5-46FB-868C-BA23BD70E46E}|\uC5B4\uC148\uBE14\uB9AC\uB2E8\\\uC5B4\uC148\uBE14\uB9AC\uB2E8.vcxproj|solutionrelative:\uC5B4\uC148\uBE14\uB9AC\uB2E8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732367C7-4257-4D22-89CD-F1A0B2CEB5E3}|\uC258\uCF54\uB4DC\\\uC258\uCF54\uB4DC.vcxproj|C:\\Users\\98032\\source\\repos\\Clang_Lecture\\\uC258\uCF54\uB4DC\\\uC258\uCF54\uB4DC\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{732367C7-4257-4D22-89CD-F1A0B2CEB5E3}|\uC258\uCF54\uB4DC\\\uC258\uCF54\uB4DC.vcxproj|solutionrelative:\uC258\uCF54\uB4DC\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\98032\\source\\repos\\Clang_Lecture\\\uC258\uCF54\uB4DC\\\uAE30\uACC4\uC5B4\uB2E8\\main.c",
+              "RelativeDocumentMoniker": "\uAE30\uACC4\uC5B4\uB2E8\\main.c",
+              "ToolTip": "C:\\Users\\98032\\source\\repos\\Clang_Lecture\\\uC258\uCF54\uB4DC\\\uAE30\uACC4\uC5B4\uB2E8\\main.c",
+              "RelativeToolTip": "\uAE30\uACC4\uC5B4\uB2E8\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-09T16:59:45.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\98032\\source\\repos\\Clang_Lecture\\\uC258\uCF54\uB4DC\\\uC5B4\uC148\uBE14\uB9AC\uB2E8\\main.c",
+              "RelativeDocumentMoniker": "\uC5B4\uC148\uBE14\uB9AC\uB2E8\\main.c",
+              "ToolTip": "C:\\Users\\98032\\source\\repos\\Clang_Lecture\\\uC258\uCF54\uB4DC\\\uC5B4\uC148\uBE14\uB9AC\uB2E8\\main.c",
+              "RelativeToolTip": "\uC5B4\uC148\uBE14\uB9AC\uB2E8\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-09T16:54:37.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\98032\\source\\repos\\Clang_Lecture\\\uC258\uCF54\uB4DC\\\uC258\uCF54\uB4DC\\main.c",
+              "RelativeDocumentMoniker": "\uC258\uCF54\uB4DC\\main.c",
+              "ToolTip": "C:\\Users\\98032\\source\\repos\\Clang_Lecture\\\uC258\uCF54\uB4DC\\\uC258\uCF54\uB4DC\\main.c",
+              "RelativeToolTip": "\uC258\uCF54\uB4DC\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-09T16:29:53.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

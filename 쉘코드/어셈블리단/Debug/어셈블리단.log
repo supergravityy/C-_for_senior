@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\98032\source\repos\Clang_Lecture\쉘코드\어셈블리단\main.c(8,1): warning C4731: 'main': 'ebp' 프레임 포인터 레지스터가 인라인 어셈블리 코드에 의해 수정되었습니다.
+  어셈블리단.vcxproj -> C:\Users\98032\source\repos\Clang_Lecture\쉘코드\Debug\어셈블리단.exe

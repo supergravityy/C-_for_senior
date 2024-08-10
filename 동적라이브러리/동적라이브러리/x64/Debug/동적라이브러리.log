@@ -1,0 +1,4 @@
+﻿  dynamicLib.c
+     C:\Users\98032\source\repos\Clang_Lecture\동적라이브러리\x64\Debug\동적라이브러리.lib 라이브러리 및 C:\Users\98032\source\repos\Clang_Lecture\동적라이브러리\x64\Debug\동적라이브러리.exp 개체를 생성하고 있습니다.
+LINK : warning LNK4232: 동적라이브러리.dll 이름에 ASCII 문자가 아닌 문자가 들어 있습니다. 949 이외의 ANSI 코드 페이지가 있는 시스템에서 DLL이 로드되지 않을 수도 있습니다.
+  동적라이브러리.vcxproj -> C:\Users\98032\source\repos\Clang_Lecture\동적라이브러리\x64\Debug\동적라이브러리.dll
